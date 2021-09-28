@@ -4,7 +4,7 @@ Hello there, I am Daniel Ebron
 
 [![LinkedIn Badge](https://img.shields.io/badge/Profile-LinkedIn-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/daniel-ebron/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=dallas-alfonso.dallas-alfonso)
 
 I am Software Engineer.  I love programming, writing, and sports
 
