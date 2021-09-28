@@ -1,7 +1,7 @@
 # About
 Front-End software engineer with experience in JavaScript, React, Express.js, Node.js and etc.
 <br>
-I find joy in creating beutiful applications that offer a real world solution to real world problems
+I find joy in creating beautiful applications that offer a real world solution to real world problems
 
 [![LinkedIn Badge](https://img.shields.io/badge/Profile-LinkedIn-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/daniel-ebron/)
 
