@@ -30,7 +30,7 @@ I find joy in creating beautiful applications that offer a real world solution t
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=%2300C7B7)
-![](https://img.shields.io/badge/NoSQL-Firebase-informational?style=flat&logo=Firebase&color=%23FFCA28)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&color=%23FFCA28)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dallas-alfonso&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
