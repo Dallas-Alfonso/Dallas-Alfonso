@@ -5,7 +5,7 @@ I find joy in creating beutiful applications that offer a real world solution to
 
 [![LinkedIn Badge](https://img.shields.io/badge/Profile-LinkedIn-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/daniel-ebron/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=dallas-alfonso.dallas-alfonso)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=dallas-alfonso.dallas-alfonso)](https://www.danielebron.com/)
 
 # Technical Skills
 ### Programming Languages
