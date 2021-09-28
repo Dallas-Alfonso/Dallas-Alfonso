@@ -1,17 +1,11 @@
 # About
-
-Hello there, I am Daniel Ebron
-
 [![LinkedIn Badge](https://img.shields.io/badge/Profile-LinkedIn-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/daniel-ebron/)
 
+Front-End software engineer with experience in JavaScript, React, Express.js, Node.js and etc.
+<br>
+I find joy in creating beutiful applications that offer a real world solution to real world problems
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=dallas-alfonso.dallas-alfonso)
-
-I am Software Engineer.  I love programming, writing, and sports
-
--  Currently, I am interning as a Software Engineer for a Non profit at Y Stem and Chess [Helping underprivilidged kids get exposed to STEM through playing chess]
--  I am part of an exlusive coding community at YearOne [A pipeline program for self taught / bootcamp / career changing developers]
--  Fun Fact: 
--  2021 Goal: To land my first software engineering role and work/grow with other amazing engineers
 
 # Technical Skills
 ### Programming Languages
@@ -23,6 +17,7 @@ I am Software Engineer.  I love programming, writing, and sports
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ### Databases
 ![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=flat&logo=MongoDB&color=47A248)
+![](https://img.shields.io/badge/NoSQL-Firebase-informational?style=flat&logo=Firebase&color=%23FFCA28)
 ### Styles
 ![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
@@ -34,6 +29,8 @@ I am Software Engineer.  I love programming, writing, and sports
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=%2300C7B7)
+![](https://img.shields.io/badge/NoSQL-Firebase-informational?style=flat&logo=Firebase&color=%23FFCA28)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dallas-alfonso&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
