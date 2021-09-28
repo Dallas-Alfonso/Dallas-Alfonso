@@ -1,7 +1,9 @@
 # About
-Front-End software engineer with experience in JavaScript, React, Express.js, Node.js and etc.
+Front-End software engineer based in New York City; skilled in React, JavaScript, Node.js and MongoDB. 
 <br>
-I find joy in creating beautiful applications that offer a real world solution to real world problems
+I find joy in creating beautiful applications that offer real world solutions to real world problems.  
+<br>
+Possesses extensive finance background allowing for a real world understanding of value in an independent critical thinker, a team player, and an effective communicator. Always humble, eager to learn, and grow.
 
 [![LinkedIn Badge](https://img.shields.io/badge/Profile-LinkedIn-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/daniel-ebron/)
 
