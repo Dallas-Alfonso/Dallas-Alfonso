@@ -1,3 +1,5 @@
+[![Daniele's Banner](https://github.com/Dallas-Alfonso/Dallas-Alfonso/blob/master/Photo%20Banner%20Daniel.png)](https://www.danielebron.com/)
+
 # About
 Front-End software engineer based in New York City; skilled in React, JavaScript, Node.js and MongoDB. 
 <br>
