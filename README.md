@@ -38,6 +38,5 @@ Possesses extensive finance background allowing for a real world understanding o
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dallas-Alfonso&theme=github_dark&include_all_commits=true)
 
-[![Dallas-Alfonso GitHub stats](https://github-readme-stats.vercel.app/api?username=Dallas-Alfonso&show_icons=true&theme=dark)](https://github.com/Dallas-Alfonso/readme.md)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dallas-alfonso&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
